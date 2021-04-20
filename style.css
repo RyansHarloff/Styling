@@ -1,12 +1,12 @@
 h1 {
-background-color: black;
-color: blue;
-font-size: xx-large;
-font-weight: bolder;
-padding-top: 10px;
-padding-bottom: 15px;
-font-family: sans-serif;
-margin-bottom: 5px;
+    background-color: black;
+    color: blue;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font-family: sans-serif;
+    margin-bottom: 5px;
 }
 h2 {
     background-color: blueviolet;
